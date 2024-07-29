@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @ahtisham-ul-haq khan
-- 👀  Iam a passionate programmer who has learned C, C++, C#, PHP programming language over the last years.
-- 🌱 I’m currently working on
+- 👀  Iam a passionate programmer who has learned C, C++, PHP, Laravel, Ajax, JS programming language over the last years.
+- 🌱 I’m currently working on Laravel Developer Synergy Integrated Solutions
 - PHP Laravel Framework
     MySQL
+    PHP
+    LAravel
     Vue.js
     inertia.js
     Vuetify
