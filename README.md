@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ahtisham Ul Haq Khan
 
-<!--
-**ahtisham-ul-haqkhan/ahtisham-ul-haqkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Co-Founder @ Biznex Solutions
 
-Here are some ideas to get you started:
+I'm Ahtisham Ul Haq Khan, a Full Stack Developer specializing in building
+scalable web, desktop and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+- PHP
+- Laravel
+- Node.js
+- Express.js
+- React.js
+- React Native
+- JavaScript
+- MySQL
+- PostgreSQL
+- Oracle
+- MongoDB
+- REST APIs
+- AI Integration
+
+### 💼 What I Build
+
+- Web Applications
+- ERP & CRM Systems
+- HRM Systems
+- Accounting Systems
+- Desktop Applications
+- Mobile Applications
+- REST APIs
+- AI-powered Applications
+
+### 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ahtisham-ul-haq-khan/
+- GitHub: https://github.com/ahtisham-ul-haqkhan
